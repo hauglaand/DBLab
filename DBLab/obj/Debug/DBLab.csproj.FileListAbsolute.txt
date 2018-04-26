@@ -1,0 +1,11 @@
+C:\Users\Haugland\Desktop\DBCourseLabFiles-v1_3\DBLab\DBLab\bin\Debug\DBLab.exe
+C:\Users\Haugland\Desktop\DBCourseLabFiles-v1_3\DBLab\DBLab\bin\Debug\DBLab.pdb
+C:\Users\Haugland\Desktop\DBCourseLabFiles-v1_3\DBLab\DBLab\bin\Debug\DBLabControllers.dll
+C:\Users\Haugland\Desktop\DBCourseLabFiles-v1_3\DBLab\DBLab\obj\Debug\DBLab.csprojResolveAssemblyReference.cache
+C:\Users\Haugland\Desktop\DBCourseLabFiles-v1_3\DBLab\DBLab\obj\Debug\DBLabs.AddStudentControl.resources
+C:\Users\Haugland\Desktop\DBCourseLabFiles-v1_3\DBLab\DBLab\obj\Debug\DBLabs.ApplicationForm.resources
+C:\Users\Haugland\Desktop\DBCourseLabFiles-v1_3\DBLab\DBLab\obj\Debug\DBLab.Properties.Resources.resources
+C:\Users\Haugland\Desktop\DBCourseLabFiles-v1_3\DBLab\DBLab\obj\Debug\DBLab.csproj.GenerateResource.Cache
+C:\Users\Haugland\Desktop\DBCourseLabFiles-v1_3\DBLab\DBLab\obj\Debug\DBLab.exe
+C:\Users\Haugland\Desktop\DBCourseLabFiles-v1_3\DBLab\DBLab\obj\Debug\DBLab.pdb
+C:\Users\Haugland\Desktop\DBCourseLabFiles-v1_3\DBLab\DBLab\bin\Debug\DBLab.exe.config
